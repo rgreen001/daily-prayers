@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Prayer</title>
+    <link>https://stjamesdownley.org.uk</link>
+    <description>A daily prayer for today</description>
+    <language>en-gb</language>
+
+    <!-- DAY 1 -->
+    <item>
+      <title>Prayer for 4 January</title>
+      <description>
+        <![CDATA[
+        Lord God, as this day begins, draw us closer to you
+        and guide us in all that we do. Amen.
+        ]]>
+      </description>
+      <pubDate>Sun, 04 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 2 -->
+    <item>
+      <title>Prayer for 2 January</title>
+      <description>
+        <![CDATA[
+        Loving God, give us patience in our waiting
+        and courage in our acting. Amen.
+        ]]>
+      </description>
+      <pubDate>Mon, 05 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- repeat one <item> per day -->
+
+  </channel>
+</rss>
+
