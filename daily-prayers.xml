@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Daily Prayer</title>
-    <link>https://stjamesdownley.org.uk</link>
+    <link>http://www.radnage.net/st-mary-the-virgin-radnage</link>
     <description>A daily prayer for today</description>
     <language>en-gb</language>
 
@@ -20,7 +20,7 @@
 
     <!-- DAY 2 -->
     <item>
-      <title>Prayer for 2 January</title>
+      <title>Prayer for 5 January</title>
       <description>
         <![CDATA[
         Loving God, give us patience in our waiting
@@ -34,4 +34,5 @@
 
   </channel>
 </rss>
+
 
