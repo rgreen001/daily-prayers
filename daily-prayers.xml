@@ -3,247 +3,287 @@
   <channel>
     <title>Daily Prayer</title>
     <link>http://www.radnage.net/st-mary-the-virgin-radnage/</link>
-    <description>A daily prayer for today</description>
+    <description>A daily prayer for each day of the month</description>
     <language>en-gb</language>
 
     <!-- DAY 1 -->
     <item>
       <title>Prayer for 1 January</title>
-      <description>
-        <![CDATA[
-        Good morning everyone. Today we praying for everyone who is looking forward to - or worried about - what  2026 may bring. God, walk with us all. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 01 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Good morning. Today we pray for a peaceful start to the new year, and for wisdom in our decisions.
+      ]]></description>
+      <pubDate>Wed, 01 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 2 -->
     <item>
       <title>Prayer for 2 January</title>
-      <description>
-        <![CDATA[
-        Good morning everyone. Today we praying for the discussions between Ukraine, Russia, and other world governments that a lasting peace may be secured. 
-        ]]>
-      </description>
-      <pubDate>Mon, 02 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, guide us in our work and relationships today, that we may act with kindness and understanding.
+      ]]></description>
+      <pubDate>Thu, 02 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
-    <!-- repeat one <item> per day -->
     <!-- DAY 3 -->
     <item>
       <title>Prayer for 3 January</title>
-      <description>
-        <![CDATA[
-        Good morning everyone. Today we praying for compassion and understanding of others in our multi-cultural society. 
-        ]]>
-      </description>
-      <pubDate>Sun, 03 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Heavenly Father, give us courage to face challenges and patience to wait for your guidance.
+      ]]></description>
+      <pubDate>Fri, 03 Jan 2026 00:01:00 GMT</pubDate>
     </item>
+
     <!-- DAY 4 -->
     <item>
       <title>Prayer for 4 January</title>
-      <description>
-        <![CDATA[
-		Good morning everyone. Today we praying for Heather and Phil as Heather retires and they embrace the next step in their lives together. We thank them for all they have done for St. James. 
-        ]]>
-      </description>
-      <pubDate>Sun, 04 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        God, help us support those in our community who are struggling today.
+      ]]></description>
+      <pubDate>Sat, 04 Jan 2026 00:01:00 GMT</pubDate>
     </item>
+
     <!-- DAY 5 -->
     <item>
       <title>Prayer for 5 January</title>
-      <description>
-        <![CDATA[
-        Good morning everyone. Today we praying for our local schools as they return for the new term. 
-        ]]>
-      </description>
+      <description><![CDATA[
+        Today we pray for our local schools and the children and staff returning to the new term.
+      ]]></description>
       <pubDate>Sun, 05 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 6 -->
     <item>
       <title>Prayer for 6 January</title>
-      <description>
-        <![CDATA[
-        Good morning everyone. Today we praying for our local care homes. Father God, please bless residents, visitors and all those involved in delivering care. 
-        ]]>
-      </description>
-      <pubDate>Sun, 06 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, bless the residents and carers in our local care homes.
+      ]]></description>
+      <pubDate>Mon, 06 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 7 -->
     <item>
       <title>Prayer for 7 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 07 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Heavenly Father, guide us in our daily tasks and help us show compassion to all.
+      ]]></description>
+      <pubDate>Tue, 07 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 8 -->
     <item>
       <title>Prayer for 8 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 08 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, we lift up our families and friends to you today, asking for love and understanding.
+      ]]></description>
+      <pubDate>Wed, 08 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 9 -->
     <item>
       <title>Prayer for 9 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 09 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        God, inspire us to serve our community and help those in need.
+      ]]></description>
+      <pubDate>Thu, 09 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 10 -->
     <item>
       <title>Prayer for 10 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 10 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, grant us patience and strength in our work and personal lives.
+      ]]></description>
+      <pubDate>Fri, 10 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 11 -->
     <item>
       <title>Prayer for 11 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 11 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Heavenly Father, help us see the needs of those around us and respond with generosity.
+      ]]></description>
+      <pubDate>Sat, 11 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 12 -->
     <item>
       <title>Prayer for 12 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
+      <description><![CDATA[
+        Lord, we pray for guidance in our decisions and clarity of mind in our work.
+      ]]></description>
       <pubDate>Sun, 12 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 13 -->
     <item>
       <title>Prayer for 13 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 13 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        God, bless our local leaders and help them make fair and compassionate choices.
+      ]]></description>
+      <pubDate>Mon, 13 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 14 -->
     <item>
       <title>Prayer for 14 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 14 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, strengthen the bonds of friendship and family in our lives today.
+      ]]></description>
+      <pubDate>Tue, 14 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 15 -->
     <item>
       <title>Prayer for 15 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 15 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Heavenly Father, help us to listen well and offer encouragement to those who need it.
+      ]]></description>
+      <pubDate>Wed, 15 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 16 -->
     <item>
       <title>Prayer for 16 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 16 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, we pray for health and comfort for those who are sick or lonely today.
+      ]]></description>
+      <pubDate>Thu, 16 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 17 -->
     <item>
       <title>Prayer for 17 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 17 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        God, inspire us to work for justice and peace in our community and the world.
+      ]]></description>
+      <pubDate>Fri, 17 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 18 -->
     <item>
       <title>Prayer for 18 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
-      <pubDate>Sun, 18 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, help us show patience and kindness in all our interactions today.
+      ]]></description>
+      <pubDate>Sat, 18 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 19 -->
     <item>
       <title>Prayer for 19 January</title>
-      <description>
-        <![CDATA[
-        Lord God, as this day begins, draw us closer to you
-        and guide us in all that we do. Amen.
-        ]]>
-      </description>
+      <description><![CDATA[
+        Heavenly Father, guide those making important decisions, and bless their work with wisdom.
+      ]]></description>
       <pubDate>Sun, 19 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
     <!-- DAY 20 -->
     <item>
       <title>Prayer for 20 January</title>
-      <description>
-        <![CDATA[
-        Prayer for 20 January
-        ]]>
-      </description>
-      <pubDate>Sun, 20 Jan 2026 00:01:00 GMT</pubDate>
+      <description><![CDATA[
+        Lord, we lift up our local schools and teachers today, asking for encouragement and support.
+      ]]></description>
+      <pubDate>Mon, 20 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
+    <!-- DAY 21 -->
+    <item>
+      <title>Prayer for 21 January</title>
+      <description><![CDATA[
+        God, bless the work of those caring for others, and grant them strength and patience.
+      ]]></description>
+      <pubDate>Tue, 21 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
 
+    <!-- DAY 22 -->
+    <item>
+      <title>Prayer for 22 January</title>
+      <description><![CDATA[
+        Lord, help us to forgive and reconcile where there is conflict.
+      ]]></description>
+      <pubDate>Wed, 22 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
 
+    <!-- DAY 23 -->
+    <item>
+      <title>Prayer for 23 January</title>
+      <description><![CDATA[
+        Heavenly Father, guide those in positions of responsibility and leadership today.
+      ]]></description>
+      <pubDate>Thu, 23 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 24 -->
+    <item>
+      <title>Prayer for 24 January</title>
+      <description><![CDATA[
+        Lord, bless our local community and help us to support one another in love.
+      ]]></description>
+      <pubDate>Fri, 24 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 25 -->
+    <item>
+      <title>Prayer for 25 January</title>
+      <description><![CDATA[
+        God, grant us wisdom to use our time and talents wisely.
+      ]]></description>
+      <pubDate>Sat, 25 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 26 -->
+    <item>
+      <title>Prayer for 26 January</title>
+      <description><![CDATA[
+        Lord, help us show mercy and kindness to those around us.
+      ]]></description>
+      <pubDate>Sun, 26 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 27 -->
+    <item>
+      <title>Prayer for 27 January</title>
+      <description><![CDATA[
+        Heavenly Father, guide our thoughts and actions today so they reflect your love.
+      ]]></description>
+      <pubDate>Mon, 27 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 28 -->
+    <item>
+      <title>Prayer for 28 January</title>
+      <description><![CDATA[
+        Lord, we pray for patience, peace, and understanding in our homes and workplaces.
+      ]]></description>
+      <pubDate>Tue, 28 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 29 -->
+    <item>
+      <title>Prayer for 29 January</title>
+      <description><![CDATA[
+        God, bless our neighbors and friends and help us act with compassion today.
+      ]]></description>
+      <pubDate>Wed, 29 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 30 -->
+    <item>
+      <title>Prayer for 30 January</title>
+      <description><![CDATA[
+        Lord, guide us to make decisions that bring peace and kindness into the world.
+      ]]></description>
+      <pubDate>Thu, 30 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 31 -->
+    <item>
+      <title>Prayer for 31 January</title>
+      <description><![CDATA[
+        Heavenly Father, thank you for this month. Help us continue to live with faith and hope.
+      ]]></description>
+      <pubDate>Fri, 31 Jan 2026 00:01:00 GMT</pubDate>
+    </item>
 
   </channel>
 </rss>
-
-
-
-
