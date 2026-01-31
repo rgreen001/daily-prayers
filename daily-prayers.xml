@@ -2,10 +2,10 @@
 <rss version="2.0">
   <channel>
     <title>Daily Prayer</title>
-    <link>http://www.radnage.net/st-mary-the-virgin-radnage/</link>
+    <link></link>
     <description>A daily prayer for each day of the month</description>
     <language>en-gb</language>
-
+    <!-- JANUARY -->
     <!-- DAY 1 -->
     <item>
       <title>Prayer for 1 January</title>
@@ -259,6 +259,266 @@
       <pubDate>Fri, 31 Jan 2026 00:01:00 GMT</pubDate>
     </item>
 
+    <-- February -->
+    <!-- DAY 1 -->
+    <item>
+      <title>Prayer for 1 February</title>
+      <description><![CDATA[
+        Today we are praying for children, parents and therapists at the Growing Hope service here at St James, instead of the usual family service.
+      ]]></description>
+      <pubDate>Sun, 01 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 2 -->
+    <item>
+      <title>Prayer for 2 February</title>
+      <description><![CDATA[
+        Today we are praying for the PCC as they prepare for the process of appointing a new vicar for St James.
+      ]]></description>
+      <pubDate>Mon, 02 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 3 -->
+    <item>
+      <title>Prayer for 3 February</title>
+      <description><![CDATA[
+        Today we are praying for the people in Iran who were killed or injured during the recent anti-government protests.
+      ]]></description>
+      <pubDate>Tue, 03 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 4 -->
+    <item>
+      <title>Prayer for 4 February</title>
+      <description><![CDATA[
+        Today we are praying for pupils, teachers and children at our local schools – Chiltern Wood, The Downley School and The Disraeli School.
+      ]]></description>
+      <pubDate>Wed, 04 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 5 -->
+    <item>
+      <title>Prayer for 5 February</title>
+      <description><![CDATA[
+        Today we are praying for the congregation at Thursday's service and for all at the coffee drop-in afterwards.
+      ]]></description>
+      <pubDate>Thu, 05 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 6 -->
+    <item>
+      <title>Prayer for 6 February</title>
+      <description><![CDATA[
+        Today we are praying for Chosen, a cross-church Christian charity reaching and supporting women affected by sex trafficking in High Wycombe, offering the hope of walking free.
+      ]]></description>
+      <pubDate>Fri, 06 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 7 -->
+    <item>
+      <title>Prayer for 7 February</title>
+      <description><![CDATA[
+        Today we are praying for our Vision Morning. We pray for good conversations and useful information to prepare the parish profile and job description for our new vicar.
+      ]]></description>
+      <pubDate>Sat, 07 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 8 -->
+    <item>
+      <title>Prayer for 8 February</title>
+      <description><![CDATA[
+        Today we are praying for Ian, Lucy and Rowena as they minister to the congregation at St James.
+      ]]></description>
+      <pubDate>Sun, 08 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 9 -->
+    <item>
+      <title>Prayer for 9 February</title>
+      <description><![CDATA[
+        Today we are praying for Coffee Stop, which meets each week in the Church Hall.
+      ]]></description>
+      <pubDate>Mon, 09 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 10 -->
+    <item>
+      <title>Prayer for 10 February</title>
+      <description><![CDATA[
+        Today we are praying for the people of Gaza as they strive to rebuild their homeland.
+      ]]></description>
+      <pubDate>Tue, 10 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 11 -->
+    <item>
+      <title>Prayer for 11 February</title>
+      <description><![CDATA[
+        Today we are praying for guests and volunteers at the Wycombe Homeless Connection Night Shelter.
+      ]]></description>
+      <pubDate>Wed, 11 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 12 -->
+    <item>
+      <title>Prayer for 12 February</title>
+      <description><![CDATA[
+        Today we are praying for the recipients of One Can food parcels, the volunteers, and the people who donate food.
+      ]]></description>
+      <pubDate>Thu, 12 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 13 -->
+    <item>
+      <title>Prayer for 13 February</title>
+      <description><![CDATA[
+        Today we are praying for assistance to reduce climate change. We pray for leaders to help people and companies to decrease carbon emissions.
+      ]]></description>
+      <pubDate>Fri, 13 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 14 -->
+    <item>
+      <title>Prayer for 14 February</title>
+      <description><![CDATA[
+        Today we are praying for Wycombe Mind and those they help with mental health issues.
+      ]]></description>
+      <pubDate>Sat, 14 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 15 -->
+    <item>
+      <title>Prayer for 15 February</title>
+      <description><![CDATA[
+        Today we are praying for Mike playing the organ and members of the band as they provide music for the service.
+      ]]></description>
+      <pubDate>Sun, 15 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 16 -->
+    <item>
+      <title>Prayer for 16 February</title>
+      <description><![CDATA[
+        Today we are praying for pupils, teachers and staff at all schools across Wycombe as they start half term.
+      ]]></description>
+      <pubDate>Mon, 16 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 17 -->
+    <item>
+      <title>Prayer for 17 February</title>
+      <description><![CDATA[
+        Today we are praying for the people of Ukraine, especially those suffering as a result of fighting and bombing.
+      ]]></description>
+      <pubDate>Tue, 17 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 18 -->
+    <item>
+      <title>Prayer for 18 February</title>
+      <description><![CDATA[
+        Today we are praying for Christians as they celebrate Ash Wednesday and the beginning of Lent.
+      ]]></description>
+      <pubDate>Wed, 18 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 19 -->
+    <item>
+      <title>Prayer for 19 February</title>
+      <description><![CDATA[
+        Today we are praying for the Hearing Dogs charity and the people they help who have hearing issues.
+      ]]></description>
+      <pubDate>Thu, 19 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 20 -->
+    <item>
+      <title>Prayer for 20 February</title>
+      <description><![CDATA[
+        Today we are praying for refuse collectors as they take away our rubbish.
+      ]]></description>
+      <pubDate>Fri, 20 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 21 -->
+    <item>
+      <title>Prayer for 21 February</title>
+      <description><![CDATA[
+        Today we are praying for members of our congregation who are ill, waiting for appointments, or worried about their health.
+      ]]></description>
+      <pubDate>Sat, 21 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 22 -->
+    <item>
+      <title>Prayer for 22 February</title>
+      <description><![CDATA[
+        Today we are praying for the volunteers at Messy Church this afternoon. We pray that the children who attend feel Your goodness and Your love.
+      ]]></description>
+      <pubDate>Sun, 22 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 23 -->
+    <item>
+      <title>Prayer for 23 February</title>
+      <description><![CDATA[
+        Today we are praying for grandparents and relatives who help with childcare so that parents can go out to work.
+      ]]></description>
+      <pubDate>Mon, 23 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 24 -->
+    <item>
+      <title>Prayer for 24 February</title>
+      <description><![CDATA[
+        Today we are praying for members of the police force, fire brigade and ambulance crews as they assist and support people.
+      ]]></description>
+      <pubDate>Tue, 24 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 25 -->
+    <item>
+      <title>Prayer for 25 February</title>
+      <description><![CDATA[
+        Today we are praying for children affected by drug-taking, their families, and organisations seeking to support them.
+      ]]></description>
+      <pubDate>Wed, 25 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 26 -->
+    <item>
+      <title>Prayer for 26 February</title>
+      <description><![CDATA[
+        Today we are praying for the Prayer Groups who meet on Thursday afternoon and Tuesday evening.
+      ]]></description>
+      <pubDate>Thu, 26 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 27 -->
+    <item>
+      <title>Prayer for 27 February</title>
+      <description><![CDATA[
+        Today we are praying for the Quiz this evening, that the contestants enjoy themselves and that much-needed funds are raised for St James.
+      ]]></description>
+      <pubDate>Fri, 27 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
+    <!-- DAY 28 -->
+    <item>
+      <title>Prayer for 28 February</title>
+      <description><![CDATA[
+        Today we are praying for PACT (Parents and Children Together) and the families they support through adoption.
+      ]]></description>
+      <pubDate>Sat, 28 Feb 2026 00:01:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
+
+
+
+    
+  </channel>
+</rss>
+
 
